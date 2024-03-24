@@ -1,0 +1,86 @@
+
+
+body{
+    background-color: black;
+
+}
+
+.box{
+    
+    
+    padding: 30px;
+    height: 60px;
+    margin: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 30vh;
+
+}
+
+.h1{
+    color:white;
+    
+    text-align: center;
+    text-decoration: dotted;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.h1:hover{
+    color:black;
+}
+
+.box-head{
+   
+    color:gr;
+    background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 500px;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.box-para{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    border: 10px;
+}
+
+.right{
+   padding-bottom: 55px;
+    font-size: 20px;
+    display: flex;
+    float: right;
+    width: 50vh;
+    color:rgb(235, 238, 144);
+}
+
+.right:hover{
+    color: chartreuse;
+}
+
+.left{
+   width: 50vh;
+   float: left;
+}
+.page{
+    color: black;
+   
+}
+
+.end{
+    color: brown;
+    font-size: 30px;
+    
+}
+
+.end:hover{
+    color: brown;
+}
